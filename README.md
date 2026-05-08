@@ -20,6 +20,17 @@ Pengguna juga dapat menandai status buku apakah sudah dibaca atau belum. Dengan 
 
 ---
 
+## 🎯 Tujuan Pembuatan
+
+Aplikasi ini dibuat untuk memenuhi tugas individu Front-End Development dengan fokus pada:
+
+* Implementasi routing di React
+* Penggunaan dynamic routing
+* State management sederhana
+* Pembuatan UI yang interaktif
+
+---
+
 ## 🧭 Routing Aplikasi
 
 ### 1. `/dashboard`
@@ -126,15 +137,3 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
-
----
-
-## 🎯 Tujuan Pembuatan
-
-Aplikasi ini dibuat untuk memenuhi tugas individu Front-End Development dengan fokus pada:
-
-* Implementasi routing di React
-* Penggunaan dynamic routing
-* State management sederhana
-* Pembuatan UI yang interaktif
-
