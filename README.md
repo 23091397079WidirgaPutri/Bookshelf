@@ -138,10 +138,3 @@ Aplikasi ini dibuat untuk memenuhi tugas individu Front-End Development dengan f
 * State management sederhana
 * Pembuatan UI yang interaktif
 
----
-
-## 👤 Author
-
-Nama: Widirga Putri Aditya Wardaningtyas
-Program Studi: Manajemen Informatika
-Universitas: Universitas Negeri Surabaya
